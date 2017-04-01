@@ -1,0 +1,31 @@
+ls
+pwd
+addf a.txt
+mkdir dir
+mkdir a.txt
+addf e.txt
+ls
+cd dir
+ls
+addf a.txt
+addf file1
+addf file2
+ls
+mv file2 file2renamed
+cp file1 file1copy
+ls
+rm file1
+ls
+pwd
+cd ..
+ls
+pwd
+whereis file1copy
+whereis a.txt
+cp dir dirCopy
+ls
+cd dirCopy
+ls
+cd ..
+rm dirCopy
+bye

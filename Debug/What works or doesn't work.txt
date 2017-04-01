@@ -1,0 +1,16 @@
+works:
+	ls
+	mkdir
+	cd
+	cd ..
+	pwd
+	addf
+	mv
+	cp
+	rm
+	whereis
+	
+Not working/unimplimented: 
+	
+currently working on:
+	
